@@ -6,8 +6,8 @@
 <br>If an applicant is likely to repay the loan, denying approval results in lost business for the company.</br>
 <br>If an applicant is likely to default, approving the loan can lead to financial losses.</br>
 <br>The provided data contains information about loan applications at the time of submission and highlights two scenarios:</br>
-<br>Clients with payment difficulties: Those with delayed payments exceeding X days in at least one of the first Y installments in the sample.</br>
-<br>All other cases: Instances where payments were made on time.</br>
+<br><b>Clients with payment difficulties:<b> Those with delayed payments exceeding X days in at least one of the first Y installments in the sample.</br>
+<br><b>All other cases:<b> Instances where payments were made on time.</br>
 <br>When a client applies for a loan, there are four potential outcomes:</br>
 <br><b>Approved:</b> The company approves the loan application.</br>
 <br><b>Cancelled:</b> The client cancels the application during the approval process due to changed intentions or unfavorable pricing.</br>
