@@ -12,5 +12,5 @@
 <br><b>Approved:</b> The company approves the loan application.</br>
 <br><b>Cancelled:</b> The client cancels the application during the approval process due to changed intentions or unfavorable pricing.</br>
 <br><b>Refused:</b> The company rejects the loan application, often because the applicant fails to meet requirements.</br>
-<b>Unused Offer:</b> The client cancels the loan at various stages of the process
-This case study aims to use EDA to analyze how consumer attributes and loan characteristics influence default tendencies, assisting companies in making informed and strategic decisions.
+</br><b>Unused Offer:</b> The client cancels the loan at various stages of the process</br>
+<br>This case study aims to use EDA to analyze how consumer attributes and loan characteristics influence default tendencies, assisting companies in making informed and strategic decisions.</br>
